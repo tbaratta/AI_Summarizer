@@ -8,12 +8,11 @@ Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project 
 - ⚙️ [Tech Stack](#tech-stack)
 - 🛠️ [Features](#features)
 - 🏃‍♂️ [Quick Start](#quick-start)
+- 🏃‍♂️ [References](#references)
 
 ## 🤖 Introduction <a name="introduction"></a>
 
 Summize is a web application that transforms lengthy articles into a short and concise summary using artificial intelligence.
-
-This project was made with the help of [Javascriptmastery](https://www.youtube.com/@javascriptmastery) on Youtube.
 
 ## ⚙️ Tech Stack <a name="tech-stack"></a>
 
@@ -68,4 +67,8 @@ Before you begin, make sure to install the following:
     npm run dev
     ```
    Open http://localhost:5173 in your browser to view the project.
+
+   ## ⚙️ References <a name="references"></a>
+
+   - [JavaScriptMastery](https://www.youtube.com/@javascriptmastery)
    
