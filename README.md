@@ -8,7 +8,7 @@ Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project 
 - ⚙️ [Tech Stack](#tech-stack)
 - 🛠️ [Features](#features)
 - 🏃‍♂️ [Quick Start](#quick-start)
-- 🏃‍♂️ [References](#references)
+- 🤝🏻 [References](#references)
 
 ## 🤖 Introduction <a name="introduction"></a>
 
@@ -68,7 +68,7 @@ Before you begin, make sure to install the following:
     ```
    Open http://localhost:5173 in your browser to view the project.
 
-   ## ⚙️ References <a name="references"></a>
+   ## 🤝🏻 References <a name="references"></a>
 
    - [JavaScriptMastery](https://www.youtube.com/@javascriptmastery)
    
