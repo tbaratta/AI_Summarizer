@@ -17,7 +17,6 @@ Summize is a web application that transforms lengthy articles into a short and c
 ## ⚙️ Tech Stack <a name="tech-stack"></a>
 
 - React.js
-- Typescript
 - Redux ToolKit
 - Tailwind CSS
 
