@@ -33,9 +33,9 @@ Summize is a web application that transforms lengthy articles into a short and c
 
 Before you begin, make sure to install the following:
 
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/)
 
 ### Installation <a name="installation"></a>
 
